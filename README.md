@@ -26,5 +26,8 @@ Select允许单一线程处理多个Handle。将Channel注册到Selector中，�
 
 ![selects](http://7xq5i5.com1.z0.glb.clouddn.com/img_selectors.png)
 
+## 细节
+### Channel
+### Buffer
 
 
